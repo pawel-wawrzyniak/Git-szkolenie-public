@@ -11,5 +11,3 @@ linia_hot 2
 
 linia_hot 3
 linia_hot 4
-
-linia 8
