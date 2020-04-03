@@ -8,3 +8,6 @@ linia 7
 
 linia_hot 1
 linia_hot 2
+
+linia_hot 3
+linia_hot 4
